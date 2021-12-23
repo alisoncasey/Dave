@@ -30,7 +30,7 @@ compiled_sol = compile_standard({
                         "metadata", "evm.bytecode"
                         , "evm.bytecode.sourceMap"
                     ]
-                } 
+                }   
             }
         }
 })
